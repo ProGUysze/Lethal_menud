@@ -1,0 +1,358 @@
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Running: windowsdefender: %programfiles%\windows defender\msmpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
+AntiVirus Installed: True
+Installed AntiVirus':
+   windowsdefender: %ProgramFiles%\Windows Defender\MsMpeng.exe
+   C:\Program Files\Avast Software\Avast\wsc_proxy.exe C:\Program Files\Avast Software\Avast\wsc_proxy.exe
+AntiVirus Running: c:\program files\avast software\avast\wsc_proxy.exe c:\program files\avast software\avast\wsc_proxy.exe
